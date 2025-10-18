@@ -1,0 +1,49 @@
+C:\cuccaim\nandor a kalandor\backDoor\mouseControl\bin\Debug\mouseControl.exe.config
+C:\cuccaim\nandor a kalandor\backDoor\mouseControl\bin\Debug\mouseControl.exe
+C:\cuccaim\nandor a kalandor\backDoor\mouseControl\bin\Debug\mouseControl.pdb
+C:\cuccaim\nandor a kalandor\backDoor\mouseControl\obj\Debug\mouseControl.csproj.AssemblyReference.cache
+C:\cuccaim\nandor a kalandor\backDoor\mouseControl\obj\Debug\MainWindow.g.cs
+C:\cuccaim\nandor a kalandor\backDoor\mouseControl\obj\Debug\App.g.cs
+C:\cuccaim\nandor a kalandor\backDoor\mouseControl\obj\Debug\mouseControl_MarkupCompile.cache
+C:\cuccaim\nandor a kalandor\backDoor\mouseControl\obj\Debug\mouseControl_MarkupCompile.lref
+C:\cuccaim\nandor a kalandor\backDoor\mouseControl\obj\Debug\MainWindow.baml
+C:\cuccaim\nandor a kalandor\backDoor\mouseControl\obj\Debug\mouseControl.g.resources
+C:\cuccaim\nandor a kalandor\backDoor\mouseControl\obj\Debug\mouseControl.Properties.Resources.resources
+C:\cuccaim\nandor a kalandor\backDoor\mouseControl\obj\Debug\mouseControl.csproj.GenerateResource.cache
+C:\cuccaim\nandor a kalandor\backDoor\mouseControl\obj\Debug\mouseControl.csproj.CoreCompileInputs.cache
+C:\cuccaim\nandor a kalandor\backDoor\mouseControl\obj\Debug\mouseControl.exe
+C:\cuccaim\nandor a kalandor\backDoor\mouseControl\obj\Debug\mouseControl.pdb
+C:\cuccaim\nandor a kalandor\backDoor\controlller\bin\Debug\mouseControl.exe.config
+C:\cuccaim\nandor a kalandor\backDoor\controlller\bin\Debug\mouseControl.exe
+C:\cuccaim\nandor a kalandor\backDoor\controlller\bin\Debug\mouseControl.pdb
+C:\Users\diak\Desktop\udp cuccok\backDoor\controlller\bin\Debug\mouseControl.exe.config
+C:\Users\diak\Desktop\udp cuccok\backDoor\controlller\bin\Debug\mouseControl.exe
+C:\Users\diak\Desktop\udp cuccok\backDoor\controlller\bin\Debug\mouseControl.pdb
+C:\Users\diak\Desktop\udp cuccok\backDoor\mouseControl\obj\Debug\mouseControl.csproj.AssemblyReference.cache
+C:\Users\diak\Desktop\udp cuccok\backDoor\mouseControl\obj\Debug\mouseControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\diak\Desktop\udp cuccok\backDoor\mouseControl\obj\Debug\MainWindow.g.cs
+C:\Users\diak\Desktop\udp cuccok\backDoor\mouseControl\obj\Debug\App.g.cs
+C:\Users\diak\Desktop\udp cuccok\backDoor\mouseControl\obj\Debug\mouseControl_MarkupCompile.cache
+C:\Users\diak\Desktop\udp cuccok\backDoor\mouseControl\obj\Debug\mouseControl_MarkupCompile.lref
+C:\Users\diak\Desktop\udp cuccok\backDoor\mouseControl\obj\Debug\MainWindow.baml
+C:\Users\diak\Desktop\udp cuccok\backDoor\mouseControl\obj\Debug\mouseControl.g.resources
+C:\Users\diak\Desktop\udp cuccok\backDoor\mouseControl\obj\Debug\mouseControl.Properties.Resources.resources
+C:\Users\diak\Desktop\udp cuccok\backDoor\mouseControl\obj\Debug\mouseControl.csproj.GenerateResource.cache
+C:\Users\diak\Desktop\udp cuccok\backDoor\mouseControl\obj\Debug\mouseControl.csproj.CoreCompileInputs.cache
+C:\Users\diak\Desktop\udp cuccok\backDoor\mouseControl\obj\Debug\mouseControl.exe
+C:\Users\diak\Desktop\udp cuccok\backDoor\mouseControl\obj\Debug\mouseControl.pdb
+C:\Users\Nandi\Desktop\backDoor\controlller\bin\Debug\mouseControl.exe.config
+C:\Users\Nandi\Desktop\backDoor\controlller\bin\Debug\mouseControl.exe
+C:\Users\Nandi\Desktop\backDoor\controlller\bin\Debug\mouseControl.pdb
+C:\Users\Nandi\Desktop\backDoor\mouseControl\obj\Debug\mouseControl.csproj.AssemblyReference.cache
+C:\Users\Nandi\Desktop\backDoor\mouseControl\obj\Debug\MainWindow.g.cs
+C:\Users\Nandi\Desktop\backDoor\mouseControl\obj\Debug\App.g.cs
+C:\Users\Nandi\Desktop\backDoor\mouseControl\obj\Debug\mouseControl_MarkupCompile.cache
+C:\Users\Nandi\Desktop\backDoor\mouseControl\obj\Debug\mouseControl_MarkupCompile.lref
+C:\Users\Nandi\Desktop\backDoor\mouseControl\obj\Debug\MainWindow.baml
+C:\Users\Nandi\Desktop\backDoor\mouseControl\obj\Debug\mouseControl.g.resources
+C:\Users\Nandi\Desktop\backDoor\mouseControl\obj\Debug\mouseControl.Properties.Resources.resources
+C:\Users\Nandi\Desktop\backDoor\mouseControl\obj\Debug\mouseControl.csproj.GenerateResource.cache
+C:\Users\Nandi\Desktop\backDoor\mouseControl\obj\Debug\mouseControl.csproj.CoreCompileInputs.cache
+C:\Users\Nandi\Desktop\backDoor\mouseControl\obj\Debug\mouseControl.exe
+C:\Users\Nandi\Desktop\backDoor\mouseControl\obj\Debug\mouseControl.pdb

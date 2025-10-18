@@ -1,0 +1,11 @@
+C:\Users\diak\Desktop\udp cuccok\backDoor\exeDisabler\bin\Debug\exeDisabler.exe.config
+C:\Users\diak\Desktop\udp cuccok\backDoor\exeDisabler\bin\Debug\exeDisabler.exe
+C:\Users\diak\Desktop\udp cuccok\backDoor\exeDisabler\bin\Debug\exeDisabler.pdb
+C:\Users\diak\Desktop\udp cuccok\backDoor\exeDisabler\obj\Debug\exeDisabler.csproj.AssemblyReference.cache
+C:\Users\diak\Desktop\udp cuccok\backDoor\exeDisabler\obj\Debug\exeDisabler.csproj.SuggestedBindingRedirects.cache
+C:\Users\diak\Desktop\udp cuccok\backDoor\exeDisabler\obj\Debug\exeDisabler.csproj.CoreCompileInputs.cache
+C:\Users\diak\Desktop\udp cuccok\backDoor\controlller\bin\Debug\eD.exe.config
+C:\Users\diak\Desktop\udp cuccok\backDoor\controlller\bin\Debug\eD.exe
+C:\Users\diak\Desktop\udp cuccok\backDoor\controlller\bin\Debug\eD.pdb
+C:\Users\diak\Desktop\udp cuccok\backDoor\exeDisabler\obj\Debug\eD.exe
+C:\Users\diak\Desktop\udp cuccok\backDoor\exeDisabler\obj\Debug\eD.pdb

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nandi\\Desktop\\backDoor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{829621C2-7FF8-4EA4-8BF2-B9CF6857F829}|listenerWatcher\\listenerWatcher.csproj|c:\\users\\nandi\\desktop\\backdoor\\listenerwatcher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829621C2-7FF8-4EA4-8BF2-B9CF6857F829}|listenerWatcher\\listenerWatcher.csproj|solutionrelative:listenerwatcher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|listenerWatcher||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80391495-75C9-4514-ADA2-2ACF837F4201}|backDoor\\backDoor.csproj|C:\\Users\\Nandi\\Desktop\\backDoor\\backdoor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80391495-75C9-4514-ADA2-2ACF837F4201}|backDoor\\backDoor.csproj|solutionrelative:backdoor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C87246-AABB-4DD7-9B7A-173B415FCD90}|controlller\\controlller.csproj|C:\\Users\\Nandi\\Desktop\\backDoor\\controlller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C87246-AABB-4DD7-9B7A-173B415FCD90}|controlller\\controlller.csproj|solutionrelative:controlller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F478FC4B-7046-426F-AF40-B8ED3ED64945}|MouseControlListener\\MouseControlListener.csproj|C:\\Users\\Nandi\\Desktop\\backDoor\\mousecontrollistener\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F478FC4B-7046-426F-AF40-B8ED3ED64945}|MouseControlListener\\MouseControlListener.csproj|solutionrelative:mousecontrollistener\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9FA1D3-9756-453B-9EE9-CF513EABF62E}|mouseControl\\mouseControl.csproj|C:\\Users\\Nandi\\Desktop\\backDoor\\mousecontrol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4E9FA1D3-9756-453B-9EE9-CF513EABF62E}|mouseControl\\mouseControl.csproj|solutionrelative:mousecontrol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9FA1D3-9756-453B-9EE9-CF513EABF62E}|mouseControl\\mouseControl.csproj|c:\\users\\nandi\\desktop\\backdoor\\mousecontrol\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9FA1D3-9756-453B-9EE9-CF513EABF62E}|mouseControl\\mouseControl.csproj|solutionrelative:mousecontrol\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829621C2-7FF8-4EA4-8BF2-B9CF6857F829}|listenerWatcher\\listenerWatcher.csproj|c:\\users\\nandi\\desktop\\backdoor\\listenerwatcher\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 239,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "listenerWatcher",
+              "DocumentMoniker": "C:\\Users\\Nandi\\Desktop\\backDoor\\listenerWatcher\\listenerWatcher.csproj",
+              "RelativeDocumentMoniker": "listenerWatcher\\listenerWatcher.csproj",
+              "ToolTip": "C:\\Users\\Nandi\\Desktop\\backDoor\\listenerWatcher\\listenerWatcher.csproj",
+              "RelativeToolTip": "listenerWatcher\\listenerWatcher.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-08T19:39:04.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nandi\\Desktop\\backDoor\\mouseControl\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "mouseControl\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Nandi\\Desktop\\backDoor\\mouseControl\\MainWindow.xaml.cs",
+              "RelativeToolTip": "mouseControl\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwDMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T20:52:29.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Nandi\\Desktop\\backDoor\\mouseControl\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "mouseControl\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Nandi\\Desktop\\backDoor\\mouseControl\\MainWindow.xaml",
+              "RelativeToolTip": "mouseControl\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-07T20:49:20.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nandi\\Desktop\\backDoor\\MouseControlListener\\Program.cs",
+              "RelativeDocumentMoniker": "MouseControlListener\\Program.cs",
+              "ToolTip": "C:\\Users\\Nandi\\Desktop\\backDoor\\MouseControlListener\\Program.cs",
+              "RelativeToolTip": "MouseControlListener\\Program.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAcwIQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T19:49:24.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nandi\\Desktop\\backDoor\\controlller\\Program.cs",
+              "RelativeDocumentMoniker": "controlller\\Program.cs",
+              "ToolTip": "C:\\Users\\Nandi\\Desktop\\backDoor\\controlller\\Program.cs",
+              "RelativeToolTip": "controlller\\Program.cs",
+              "ViewState": "AQIAAKICAAAAAAAAAAAAADACAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:35:03.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nandi\\Desktop\\backDoor\\listenerWatcher\\Program.cs",
+              "RelativeDocumentMoniker": "listenerWatcher\\Program.cs",
+              "ToolTip": "C:\\Users\\Nandi\\Desktop\\backDoor\\listenerWatcher\\Program.cs",
+              "RelativeToolTip": "listenerWatcher\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAMwBoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T19:21:49.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nandi\\Desktop\\backDoor\\backDoor\\Program.cs",
+              "RelativeDocumentMoniker": "backDoor\\Program.cs",
+              "ToolTip": "C:\\Users\\Nandi\\Desktop\\backDoor\\backDoor\\Program.cs",
+              "RelativeToolTip": "backDoor\\Program.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAUwE8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T14:46:58.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

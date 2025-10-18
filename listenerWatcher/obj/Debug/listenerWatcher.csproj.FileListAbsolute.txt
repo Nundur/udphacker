@@ -1,0 +1,18 @@
+C:\Users\Nandi\Desktop\backDoor\listenerWatcher\obj\Debug\listenerWatcher.csproj.AssemblyReference.cache
+C:\Users\Nandi\Desktop\backDoor\listenerWatcher\obj\Debug\listenerWatcher.csproj.CoreCompileInputs.cache
+C:\Users\Nandi\Desktop\backDoor\listenerWatcher\bin\Debug\lW.exe.config
+C:\Users\Nandi\Desktop\backDoor\listenerWatcher\bin\Debug\lW.exe
+C:\Users\Nandi\Desktop\backDoor\listenerWatcher\bin\Debug\lW.pdb
+C:\Users\Nandi\Desktop\backDoor\listenerWatcher\obj\Debug\lW.exe
+C:\Users\Nandi\Desktop\backDoor\listenerWatcher\obj\Debug\lW.pdb
+C:\Users\diak\Desktop\udp cuccok\backDoor\listenerWatcher\bin\Debug\lW.exe.config
+C:\Users\diak\Desktop\udp cuccok\backDoor\listenerWatcher\bin\Debug\lW.exe
+C:\Users\diak\Desktop\udp cuccok\backDoor\listenerWatcher\bin\Debug\lW.pdb
+C:\Users\diak\Desktop\udp cuccok\backDoor\listenerWatcher\obj\Debug\listenerWatcher.csproj.AssemblyReference.cache
+C:\Users\diak\Desktop\udp cuccok\backDoor\listenerWatcher\obj\Debug\listenerWatcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\diak\Desktop\udp cuccok\backDoor\listenerWatcher\obj\Debug\listenerWatcher.csproj.CoreCompileInputs.cache
+C:\Users\diak\Desktop\udp cuccok\backDoor\listenerWatcher\obj\Debug\lW.exe
+C:\Users\diak\Desktop\udp cuccok\backDoor\listenerWatcher\obj\Debug\lW.pdb
+C:\Users\diak\Desktop\udp cuccok\backDoor\controlller\bin\Debug\lW\lW.exe.config
+C:\Users\diak\Desktop\udp cuccok\backDoor\controlller\bin\Debug\lW\lW.exe
+C:\Users\diak\Desktop\udp cuccok\backDoor\controlller\bin\Debug\lW\lW.pdb

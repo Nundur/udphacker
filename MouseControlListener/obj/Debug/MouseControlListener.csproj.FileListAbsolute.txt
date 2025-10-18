@@ -1,0 +1,18 @@
+C:\cuccaim\nandor a kalandor\backDoor\MouseControlListener\obj\Debug\MouseControlListener.csproj.AssemblyReference.cache
+C:\cuccaim\nandor a kalandor\backDoor\MouseControlListener\obj\Debug\MouseControlListener.csproj.CoreCompileInputs.cache
+C:\cuccaim\nandor a kalandor\backDoor\MouseControlListener\bin\Debug\MouseControlListener.exe.config
+C:\cuccaim\nandor a kalandor\backDoor\MouseControlListener\bin\Debug\MouseControlListener.exe
+C:\cuccaim\nandor a kalandor\backDoor\MouseControlListener\bin\Debug\MouseControlListener.pdb
+C:\cuccaim\nandor a kalandor\backDoor\controlller\bin\Debug\MCL.exe.config
+C:\cuccaim\nandor a kalandor\backDoor\controlller\bin\Debug\MCL.exe
+C:\cuccaim\nandor a kalandor\backDoor\controlller\bin\Debug\MCL.pdb
+C:\cuccaim\nandor a kalandor\backDoor\MouseControlListener\obj\Debug\MCL.exe
+C:\cuccaim\nandor a kalandor\backDoor\MouseControlListener\obj\Debug\MCL.pdb
+C:\Users\diak\Desktop\udp cuccok\backDoor\MouseControlListener\obj\Debug\MouseControlListener.csproj.AssemblyReference.cache
+C:\Users\diak\Desktop\udp cuccok\backDoor\MouseControlListener\obj\Debug\MouseControlListener.csproj.SuggestedBindingRedirects.cache
+C:\Users\diak\Desktop\udp cuccok\backDoor\MouseControlListener\obj\Debug\MouseControlListener.csproj.CoreCompileInputs.cache
+C:\Users\diak\Desktop\udp cuccok\backDoor\MouseControlListener\obj\Debug\MCL.exe
+C:\Users\diak\Desktop\udp cuccok\backDoor\MouseControlListener\obj\Debug\MCL.pdb
+C:\Users\diak\Desktop\udp cuccok\backDoor\controlller\bin\Debug\MCL.exe.config
+C:\Users\diak\Desktop\udp cuccok\backDoor\controlller\bin\Debug\MCL.exe
+C:\Users\diak\Desktop\udp cuccok\backDoor\controlller\bin\Debug\MCL.pdb

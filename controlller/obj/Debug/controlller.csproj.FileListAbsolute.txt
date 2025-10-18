@@ -1,0 +1,15 @@
+C:\cuccaim\nandor a kalandor\backDoor\controlller\bin\Debug\controlller.exe.config
+C:\cuccaim\nandor a kalandor\backDoor\controlller\bin\Debug\controlller.exe
+C:\cuccaim\nandor a kalandor\backDoor\controlller\bin\Debug\controlller.pdb
+C:\cuccaim\nandor a kalandor\backDoor\controlller\obj\Debug\controlller.csproj.AssemblyReference.cache
+C:\cuccaim\nandor a kalandor\backDoor\controlller\obj\Debug\controlller.csproj.CoreCompileInputs.cache
+C:\cuccaim\nandor a kalandor\backDoor\controlller\obj\Debug\controlller.exe
+C:\cuccaim\nandor a kalandor\backDoor\controlller\obj\Debug\controlller.pdb
+C:\Users\diak\Desktop\udp cuccok\backDoor\controlller\obj\Debug\controlller.csproj.AssemblyReference.cache
+C:\Users\diak\Desktop\udp cuccok\backDoor\controlller\obj\Debug\controlller.csproj.SuggestedBindingRedirects.cache
+C:\Users\diak\Desktop\udp cuccok\backDoor\controlller\obj\Debug\controlller.csproj.CoreCompileInputs.cache
+C:\Users\diak\Desktop\udp cuccok\backDoor\controlller\bin\Debug\controller.exe.config
+C:\Users\diak\Desktop\udp cuccok\backDoor\controlller\bin\Debug\controller.exe
+C:\Users\diak\Desktop\udp cuccok\backDoor\controlller\bin\Debug\controller.pdb
+C:\Users\diak\Desktop\udp cuccok\backDoor\controlller\obj\Debug\controller.exe
+C:\Users\diak\Desktop\udp cuccok\backDoor\controlller\obj\Debug\controller.pdb

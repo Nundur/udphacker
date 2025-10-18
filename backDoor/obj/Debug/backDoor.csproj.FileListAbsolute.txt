@@ -1,0 +1,25 @@
+C:\cuccaim\nandor a kalandor\backDoor\backDoor\obj\Debug\backDoor.csproj.AssemblyReference.cache
+C:\cuccaim\nandor a kalandor\backDoor\backDoor\obj\Debug\backDoor.csproj.CoreCompileInputs.cache
+C:\cuccaim\nandor a kalandor\backDoor\backDoor\bin\Debug\Google Play Games Services.exe.config
+C:\cuccaim\nandor a kalandor\backDoor\backDoor\bin\Debug\Google Play Games Services.exe
+C:\cuccaim\nandor a kalandor\backDoor\backDoor\bin\Debug\Google Play Games Services.pdb
+C:\cuccaim\nandor a kalandor\backDoor\controlller\bin\Debug\listener\virusxd.exe.config
+C:\cuccaim\nandor a kalandor\backDoor\controlller\bin\Debug\listener\virusxd.exe
+C:\cuccaim\nandor a kalandor\backDoor\controlller\bin\Debug\listener\virusxd.pdb
+C:\cuccaim\nandor a kalandor\backDoor\backDoor\obj\Debug\virusxd.exe
+C:\cuccaim\nandor a kalandor\backDoor\backDoor\obj\Debug\virusxd.pdb
+C:\Users\diak\Desktop\udp cuccok\backDoor\backDoor\obj\Debug\backDoor.csproj.AssemblyReference.cache
+C:\Users\diak\Desktop\udp cuccok\backDoor\backDoor\obj\Debug\backDoor.csproj.SuggestedBindingRedirects.cache
+C:\Users\diak\Desktop\udp cuccok\backDoor\backDoor\obj\Debug\backDoor.csproj.CoreCompileInputs.cache
+C:\Users\Nandi\Desktop\backDoor\controlller\bin\Debug\listener\virusxd.exe.config
+C:\Users\Nandi\Desktop\backDoor\controlller\bin\Debug\listener\virusxd.exe
+C:\Users\Nandi\Desktop\backDoor\controlller\bin\Debug\listener\virusxd.pdb
+C:\Users\Nandi\Desktop\backDoor\backDoor\obj\Debug\backDoor.csproj.AssemblyReference.cache
+C:\Users\Nandi\Desktop\backDoor\backDoor\obj\Debug\backDoor.csproj.CoreCompileInputs.cache
+C:\Users\Nandi\Desktop\backDoor\backDoor\obj\Debug\virusxd.exe
+C:\Users\Nandi\Desktop\backDoor\backDoor\obj\Debug\virusxd.pdb
+C:\Users\diak\Desktop\udp cuccok\backDoor\controlller\bin\Debug\listener\virusxd.exe.config
+C:\Users\diak\Desktop\udp cuccok\backDoor\controlller\bin\Debug\listener\virusxd.exe
+C:\Users\diak\Desktop\udp cuccok\backDoor\controlller\bin\Debug\listener\virusxd.pdb
+C:\Users\diak\Desktop\udp cuccok\backDoor\backDoor\obj\Debug\virusxd.exe
+C:\Users\diak\Desktop\udp cuccok\backDoor\backDoor\obj\Debug\virusxd.pdb

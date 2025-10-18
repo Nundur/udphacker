@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "backDoor", "backDoor\backDoor.csproj", "{80391495-75C9-4514-ADA2-2ACF837F4201}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "controlller", "controlller\controlller.csproj", "{56C87246-AABB-4DD7-9B7A-173B415FCD90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mouseControl", "mouseControl\mouseControl.csproj", "{4E9FA1D3-9756-453B-9EE9-CF513EABF62E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseControlListener", "MouseControlListener\MouseControlListener.csproj", "{F478FC4B-7046-426F-AF40-B8ED3ED64945}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listenerWatcher", "listenerWatcher\listenerWatcher.csproj", "{829621C2-7FF8-4EA4-8BF2-B9CF6857F829}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exeDisabler", "exeDisabler\exeDisabler.csproj", "{5C09AB3E-B7CA-444C-906D-4266349D7412}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80391495-75C9-4514-ADA2-2ACF837F4201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80391495-75C9-4514-ADA2-2ACF837F4201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80391495-75C9-4514-ADA2-2ACF837F4201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80391495-75C9-4514-ADA2-2ACF837F4201}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56C87246-AABB-4DD7-9B7A-173B415FCD90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56C87246-AABB-4DD7-9B7A-173B415FCD90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56C87246-AABB-4DD7-9B7A-173B415FCD90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56C87246-AABB-4DD7-9B7A-173B415FCD90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E9FA1D3-9756-453B-9EE9-CF513EABF62E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E9FA1D3-9756-453B-9EE9-CF513EABF62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E9FA1D3-9756-453B-9EE9-CF513EABF62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E9FA1D3-9756-453B-9EE9-CF513EABF62E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F478FC4B-7046-426F-AF40-B8ED3ED64945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F478FC4B-7046-426F-AF40-B8ED3ED64945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F478FC4B-7046-426F-AF40-B8ED3ED64945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F478FC4B-7046-426F-AF40-B8ED3ED64945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{829621C2-7FF8-4EA4-8BF2-B9CF6857F829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{829621C2-7FF8-4EA4-8BF2-B9CF6857F829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{829621C2-7FF8-4EA4-8BF2-B9CF6857F829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{829621C2-7FF8-4EA4-8BF2-B9CF6857F829}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C09AB3E-B7CA-444C-906D-4266349D7412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C09AB3E-B7CA-444C-906D-4266349D7412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C09AB3E-B7CA-444C-906D-4266349D7412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C09AB3E-B7CA-444C-906D-4266349D7412}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {382DE367-8804-46F1-88B1-23D6021E1AB0}
+	EndGlobalSection
+EndGlobal
